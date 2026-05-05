@@ -1,1 +1,3 @@
-# BlackJack Game 
+# BlackJack Desi
+
+-> Vite Setup
