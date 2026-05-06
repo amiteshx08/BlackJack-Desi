@@ -1,3 +1,4 @@
+import { Buttons } from "./Buttons";
 import { Header } from "./Header";
 
 export const Body = () => {
@@ -11,6 +12,7 @@ export const Body = () => {
       className="w-full h-screen"
     >
         <Header/>
+        <Buttons/>
     </div>
   );
 };
