@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&family=Sixtyfour+Convergence&display=swap');
+@import "tailwindcss";
+* {
+  font-family: 'Sixtyfour Convergence', Asimovian;
+}
